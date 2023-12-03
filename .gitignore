@@ -1,3 +1,4 @@
 *.csv
 *.pth
 /.ipynb_checkpoints/
+/test/
